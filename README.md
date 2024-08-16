@@ -1,5 +1,4 @@
 Student Score Prediction
-
 This project is a simple template for predicting student scores based on the number of study hours. The dataset used consists of two columns: Hours (x) and Scores (y).
 
 Steps
