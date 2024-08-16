@@ -21,3 +21,6 @@ Steps
 
 5. Conclusion:
   Summarize the results and determine which model works best.
+
+Usage
+The notebook template walks you through loading the dataset, performing EDA, feature engineering, training models, and evaluating them. Ensure you have the dataset student_scores.xlsx in the correct path.
